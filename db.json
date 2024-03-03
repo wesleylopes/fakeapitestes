@@ -1,0 +1,13 @@
+[
+    {
+      "type": "tela",
+      "route": "/tela_destino",
+      "text": "Ir para Tela Destino"
+    },
+    {
+      "type": "url",
+      "url": "https://www.exemplo.com",
+      "text": "Abrir URL Externa"
+    }
+  ]
+  
